@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-[Resume](https://alexanderbean.github.io/resume/Alexander%20Bean%20-%20Resume%20-%20Sep%202024.pdf)
+[Resume](https://alexanderbean.github.io/alexanderbean/Alexander%20Bean%20-%20Resume%20-%20Sep%202024.pdf)
 
 <!--
 
