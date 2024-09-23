@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 
+-->
+
+Resume: [[https://alexanderbean.github.io/resume/Alexander%20Bean%20-%20Resume%20-%20Sep%202024.pdf](Resume)
+
+<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
