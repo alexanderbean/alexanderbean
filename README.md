@@ -6,9 +6,12 @@
 Here are some ideas to get you started:
 
 -->
+- I am currently working as an Information Technology Business Analyst @ Arbella Insurance Group
+- I am pursuing a Master of Science in Computer Information Systems @ Boston University
+- I am an aspiring data engineer, and am continuously learning new skills to pivot my career into the world of data systems, pipelines, and architecture.
 
-[Resume](https://alexanderbean.github.io/alexanderbean/Alexander%20Bean%20-%20Resume%20-%20Sep%202024.pdf)
-
+Click [here](https://alexanderbean.github.io/alexanderbean/Alexander%20Bean%20-%20Resume%20-%20Sep%202024.pdf) to view my resume.
+(Current as of September 2024)
 <!--
 
 - 🔭 I’m currently working on ...
