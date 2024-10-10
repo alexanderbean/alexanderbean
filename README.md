@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - I am an **aspiring data engineer**, and am continuously learning new skills to pivot my career into the world of data systems, pipelines, and architecture.
 
 Click [here](https://alexanderbean.github.io/alexanderbean/Alexander%20Bean%20-%20Resume%20-%20Oct%202024.pdf) to view my resume.
-(Current as of September 2024)
+(Current as of October 2024)
 <!--
 
 - 🔭 I’m currently working on ...
