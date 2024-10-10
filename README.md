@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - I am pursuing a **Master of Science in Computer Information Systems** @ Boston University
 - I am an **aspiring data engineer**, and am continuously learning new skills to pivot my career into the world of data systems, pipelines, and architecture.
 
-Click [here](https://alexanderbean.github.io/alexanderbean/Alexander%20Bean%20-%20Resume%20-%20Sep%202024.pdf) to view my resume.
+Click [here](https://github.com/alexanderbean/alexanderbean/blob/main/Alexander%20Bean%20-%20Resume%20-%20Oct%202024.pdf) to view my resume.
 (Current as of September 2024)
 <!--
 
