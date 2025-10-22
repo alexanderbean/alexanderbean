@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - I worked as an **Information Technology Business Analyst** @ Arbella Insurance Group from Oct 2023 - Apr 2025.
 - I received my **Bachelor of Science in Business Administration, Information Systems** from Bryant University in May 2023.
-- 
+  
 - This portfolio is from my time in Information Technology as an **aspiring data engineer**.
 - This includes undergraduate coursework, graduate coursework from my semester at Boston University, and personal projects.
 
