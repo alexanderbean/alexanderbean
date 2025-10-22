@@ -6,9 +6,11 @@
 Here are some ideas to get you started:
 
 -->
-- I am currently working as an **Information Technology Business Analyst** @ Arbella Insurance Group
-- I am pursuing a **Master of Science in Computer Information Systems** @ Boston University
-- I am an **aspiring data engineer**, and am continuously learning new skills to pivot my career into the world of data systems, pipelines, and architecture.
+- I worked as an **Information Technology Business Analyst** @ Arbella Insurance Group from Oct 2023 - Apr 2025.
+- I received my **Bachelor of Science in Business Administration, Information Systems** from Bryant University in May 2023.
+- 
+- This portfolio is from my time in Information Technology as an **aspiring data engineer**.
+- This includes undergraduate coursework, graduate coursework from my semester at Boston University, and personal projects.
 
 Click [here](https://alexanderbean.github.io/alexanderbean/Alexander%20Bean%20-%20Resume%20-%20Dec%202024.pdf) to view my resume.
 (Current as of December 2024)
